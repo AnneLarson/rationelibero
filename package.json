@@ -1,0 +1,23 @@
+{
+  "name": "rationelibero",
+  "version": "1.0.0",
+  "description": "Pure javascript implementation of Zlib nodejs core module.The zlib module provides compression functionality implemented using Gzip and Deflate/Inflate.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnneLarson/rationelibero.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "ab",
+    "quaerat",
+    "consequatur",
+    "compression"
+  ],
+  "author": "BrandynWelch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnneLarson/rationelibero.git/issues"
+  },
+  "homepage": "https://github.com/AnneLarson/rationelibero.git"
+}
